@@ -19,7 +19,7 @@ export const TransactionHistory = () => {
                     <Transaction  key = {transaction.id} transaction={transaction} /> )
  )
  }
-
+ 
             </ul>
         </div>
     )
